@@ -1,0 +1,18 @@
+{
+  "name": "logo-generator-m10",
+  "version": "1.0.0",
+  "description": "full stack web development bootcamp module 10 challenge (Logo Generator) uses Node.js, Express.js, and Jest testing suite",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
