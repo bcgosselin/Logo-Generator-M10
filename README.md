@@ -22,7 +22,7 @@ requires Jest package: https://jestjs.io/
 ## Usage
 please view attached video link for usage instructions:
 
-
+https://app.screencastify.com/v3/watch/Gpq2gci3wI4pSobgVGEA
 
 ## License
 [![License Badge](https://img.shields.io/badge/MIT-yellow)]()
