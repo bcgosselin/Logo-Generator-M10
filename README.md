@@ -1,5 +1,5 @@
 # Logo-Generator-M10
-full stack web development bootcamp module 10 challenge (Logo Generator) uses Node.js, Express.js, and Jest testing suite
+Developed a Node.js command-line application to generate SVG logos based on user input. Prompted users for logo text, colors, and shapes, ensuring output matched specified criteria. Recorded a demonstration video of the application.
 
 https://bcgosselin.github.io/Logo-Generator-M10
 
